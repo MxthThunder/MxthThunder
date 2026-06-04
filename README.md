@@ -17,9 +17,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" alt="divider" width="400">
-</div>
+---
 
 ### ✧ CURRENTLY_WORKING_ON
 
@@ -31,9 +29,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" alt="divider" width="400">
-</div>
+---
 
 ### ✧ TECH_STACK
 
@@ -59,9 +55,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" alt="divider" width="400">
-</div>
+---
 
 ### ✧ FEATURED_PROJECTS
 
@@ -76,9 +70,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" alt="divider" width="400">
-</div>
+---
 
 ### ✧ GITHUB_STATS
 
@@ -90,9 +82,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" alt="divider" width="400">
-</div>
+---
 
 ### ✧ CONTRIBUTION_GRAPH
 
@@ -102,9 +92,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" alt="divider" width="400">
-</div>
+---
 
 ### ✧ CONNECT_WITH_ME
 
