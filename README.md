@@ -75,9 +75,13 @@
 ### ✧ GITHUB_STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MxthThunder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MxthThunder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MxthThunder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MxthThunder)
+
+<br><br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MxthThunder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MxthThunder)
+
 </div>
 
 <br>
@@ -87,7 +91,9 @@
 ### ✧ CONTRIBUTION_GRAPH
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MxthThunder&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MxthThunder&theme=tokyo-night&bg_color=0D1117&hide_border=true)](https://github.com/MxthThunder)
+
 </div>
 
 <br>
