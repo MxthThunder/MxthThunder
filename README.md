@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Replace the URL below with a link to a synthwave/retrowave GIF or image hosted on Imgur or GitHub -->
-  <img src="https://i.imgur.com/rM1eM82.gif" alt="Retro Synthwave Banner" width="100%">
+  <img src="tactical_banner.png" alt="Tactical HUD Banner" width="100%">
   
   <br><br>
 
@@ -20,11 +19,11 @@
 
 ### ✧ CURRENTLY_WORKING_ON
 
-* 🔹 Engineering cloud-native applications and structuring data pipelines.
-* 🔹 Developing **Cifix**, a crowdsourced civic issue reporting system using React, Node.js, and MongoDB.
-* 🔹 Optimizing a **Hospital Management System** utilizing Java and MySQL, focusing on advanced database schemas and Data Flow Diagrams.
-* 🔹 Leveraging core Python, C, and Java for high-performance software development and algorithm efficiency.
-* 🔹 Competing in high-level engineering challenges, building on success from the Smart India Hackathon.
+* 🔹 **Cloud Infrastructure & Data Pipelines:** Engineering cloud-native applications and structuring reliable data workflows.
+* 🔹 **Cifix (Crowdsourced Civic Issue System):** Developing a full-stack platform with real-time updates utilizing React, Node.js, and MongoDB.
+* 🔹 **Hospital Management System:** Optimizing relational database schemas and Data Flow Diagrams using Java and MySQL.
+* 🔹 **Backend Performance:** Leveraging core Python, C, and Java for high-performance software development and algorithm efficiency.
+* 🔹 **Competitive Engineering:** Building on high-level problem-solving success from events like the Smart India Hackathon.
 
 <br>
 
@@ -34,14 +33,13 @@
 * **Frontend:** React.js, HTML/CSS
 * **Backend:** Node.js, Express.js
 * **Databases:** MongoDB, MySQL, SQLite
-* **Tools & Infrastructure:** Git, Docker, Cloud Infrastructure
+* **Tools & Infrastructure:** Git, Docker, Cloud Computing Services
 
 <br>
 
 ### ✧ CONNECT_WITH_ME
 
 <div align="center">
-  <!-- Replace '#' with your actual links -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:freddymatthew2202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
