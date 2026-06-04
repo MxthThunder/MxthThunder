@@ -1,20 +1,35 @@
 <div align="center">
+  <!-- Tactical HUD Banner -->
   <img src="tactical_banner.png" alt="Tactical HUD Banner" width="100%">
   
   <br><br>
 
+  <!-- Name Header -->
   <h1>F R E D D Y &nbsp; M A T T H E W</h1>
-  <p><b>CSE • CLOUD COMPUTING • DATA ANALYTICS • FULL-STACK ENGINEERING</b></p>
+  
+  <!-- Dynamic Animated Subtitle -->
+  <a href="https://github.com/MxthThunder">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1500&color=00E5FF&center=true&vCenter=true&width=600&lines=CLOUD+INFRASTRUCTURE+ENGINEER;ADVANCED+DATA+ANALYTICS;FULL-STACK+DEVELOPER;COMPETITIVE+PROBLEM+SOLVER" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+
+  <!-- Social Badges Moved to Header for Vibrance -->
+  <a href="https://discord.gg/kmAp6hCPZT"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://instagram.com/mxththunder"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/freddy-matthew-r"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:freddymatthew2202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+  <br><br>
+
+  <!-- Styled Proverb -->
+  <p align="center">
+    <i><b>"Commit your work to the Lord, and your plans will be established."</b> — Proverbs 16:3</i>
+  </p>
   
   <br>
-  
-  <blockquote>
-    <i>"Commit your work to the Lord, and your plans will be established." — Proverbs 16:3</i>
-  </blockquote>
 
 </div>
-
-<br>
 
 ---
 
@@ -26,17 +41,6 @@ I am a Computer Science and Engineering student and developer specializing in Cl
 *   **Technical Expertise:** Advanced Python, Java, C/C++, modern web frameworks (React.js, Node.js), and relational/NoSQL database management (MySQL, MongoDB).
 *   **Collaboration:** I am actively seeking to contribute to enterprise-level cloud infrastructure projects, advanced data analytics tools, and high-performance open-source backend systems.
 *   **Contact:** I welcome professional inquiries and discussions regarding software architecture, algorithm optimization, and data-driven engineering solutions.
-
-<br>
-
-### 🌐 CONNECT_WITH_ME
-
-<div align="left">
-  <a href="https://discord.gg/kmAp6hCPZT"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://instagram.com/mxththunder"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/freddy-matthew-r"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:freddymatthew2202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
 
 <br>
 
